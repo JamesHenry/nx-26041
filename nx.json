@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "release": {
+    "version": {
+      "generatorOptions": {
+        "updateDependents": "auto"
+      },
+      "conventionalCommits": true
+    },
+    "projectsRelationship": "independent",
+    "projects": ["packages/*"],
+    "releaseTagPattern": "{projectName}@{version}",
+    "changelog": {
+      "projectChangelogs": true
+    }
+  }
+}

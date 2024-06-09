@@ -1,0 +1,11 @@
+{
+  "name": "@org/my-project",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@nx/js": "19.2.2",
+    "nx": "19.2.2"
+  }
+}

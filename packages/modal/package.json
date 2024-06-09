@@ -1,0 +1,7 @@
+{
+  "name": "@org/myproject-modal",
+  "version": "10.11.12",
+  "dependencies": {
+    "@org/myproject-button": "1.0.0"
+  }
+}

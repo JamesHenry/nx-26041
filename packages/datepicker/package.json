@@ -1,0 +1,7 @@
+{
+  "name": "@org/myproject-datepicker",
+  "version": "1.2.3",
+  "dependencies": {
+    "@org/myproject-button": "1.0.0"
+  }
+}

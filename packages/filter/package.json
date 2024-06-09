@@ -1,0 +1,7 @@
+{
+  "name": "@org/myproject-filter",
+  "version": "7.8.9",
+  "dependencies": {
+    "@org/myproject-button": "1.0.0"
+  }
+}
