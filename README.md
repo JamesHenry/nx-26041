@@ -1,5 +1,9 @@
 # nx-26041
 
+## Workspace project graph
+
+<img width="1226" alt="image" src="https://github.com/JamesHenry/nx-26041/assets/900523/5fe04f4b-76ea-481b-9003-cd7b0437b0fb">
+
 ## Steps
 
 1. Check out the repo on the `main` branch and run `npm install`.
